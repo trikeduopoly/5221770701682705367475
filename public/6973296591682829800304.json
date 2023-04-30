@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507430953248",
+    "project_id": "pinjol-adi",
+    "storage_bucket": "pinjol-adi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507430953248:android:45ad52fa431cba3285f745",
+        "android_client_info": {
+          "package_name": "com.modminecraft.mapskin.supperaddons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507430953248-htbbolr186838d3mnas27m7epnv846dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-LeJkBV73MYY5PhWsoycZWa3CF8qnVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507430953248-htbbolr186838d3mnas27m7epnv846dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
